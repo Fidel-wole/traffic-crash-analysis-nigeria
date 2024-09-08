@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.csv
+*.pkl
+*.ipynb_checkpoints
+
+# Environment
+.env
+venv/
+env/
+.venv/
+env.bak/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Others
+*.egg-info/
+dist/
+build/
+*.bak
+*.swp
